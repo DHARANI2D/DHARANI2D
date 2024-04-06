@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://asset.cloudinary.com/dav72ilyg/03e617e6e70e26185dd133d11839d7d2"  />
+  <img height="200" src="https://res.cloudinary.com/dav72ilyg/image/upload/v1712418833/Designer_v9jvza.png"  />
 </div>
 
 ###
