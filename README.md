@@ -53,138 +53,231 @@ Sri Krishna College of Engineering and Technology · 2021 – 2025 · CGPA 8.5/1
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B4B9E,100:C9BBFF&height=4"/>
 
-## 🚀 Featured Projects — The Helios Security Ecosystem
+## 🚀 Featured Projects — Security & AI Systems
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡 [AEGIS](https://github.com/DHARANI2D/AEGIS)
-AI Agent Runtime Security
+### 🛡️ [WITNESS](https://github.com/DHARANI2D/witness)
 
-- Zero Trust governance for AI agents
-- Intent, reasoning & behavioral detection
-- Trust-score degradation, DLP
-- Cryptographic audit trail
+**Provenance-Aware Autonomous Remediation**
 
-**Stack:** FastAPI • React • SQLModel
+- Evidence-backed `ADMIT / HOLD / BLOCK`
+- Telemetry corroboration & temporal validation
+- Action-argument lineage checking
+- Real Microsoft AIOpsLab integration
+- Live 18-container evaluation environment
+- Hash-chained evidence certificates
 
-</td>
-<td width="50%">
-
-### 🕵️ [ASIP](https://github.com/DHARANI2D/helios-asip)
-Autonomous Security Investigation
-
-- Multi-agent DFIR swarm
-- GraphRAG + investigation memory
-- MITRE ATT&CK mapping
-- Adversarial QA validation
-
-**Stack:** Python • LangGraph • React
+**Stack:** Python • Docker • AIOpsLab • Ollama • pytest
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
-### 🚪 [AEGIS-AI Gateway](https://github.com/DHARANI2D/AEGIS-AI)
-Enterprise LLM Firewall
+### 🌐 [HELIOS](https://github.com/DHARANI2D/HELIOS)
 
-- Prompt injection & jailbreak defense
-- DLP on LLM input/output
-- NIST AI RMF / ISO 27001 mapping
-- Automated audit evidence
+**Autonomous Security Engineering Platform**
 
-**Stack:** FastAPI • Next.js • PostgreSQL
+- Security investigation workflows
+- AI-assisted analysis
+- Detection and response orchestration
+- Full-stack security tooling
+- Integrated security-system architecture
 
-</td>
-<td width="50%">
-
-### ⚡ [SignalFusion Core](https://github.com/DHARANI2D/SignalFusionCore)
-Detection & Alert Triage
-
-- 48 scenarios across MITRE tactics
-- 4 detection engines
-- Attack-path visualization
-- Response playbooks w/ approvals
-
-**Stack:** Node.js • Prisma • Next.js
+**Stack:** TypeScript • Python • React • Next.js • PostgreSQL • Redis • Prisma • Docker • LangGraph
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🦉 OWL
-Operating System
+### 🧬 [AEGIS_DFIR](https://github.com/DHARANI2D/AEGIS_DFIR)
 
-- Capability-based security
-- Built for graduate-app differentiation
+**AI-Assisted Digital Forensics & Incident Response**
 
-**Stack:** Systems programming
+- DFIR investigation workflows
+- AI-assisted security analysis
+- Memory forensics
+- Threat-intelligence integration
+- Security automation
+
+**Stack:** Python • React • FastAPI • LangGraph • Ollama • Qdrant • Neo4j • Docker • VirusTotal • Volatility
 
 </td>
+
 <td width="50%">
 
-### 🤖 ARGUS
-Autonomous Malware Analysis
+### 🚪 [AEGIS-AI](https://github.com/DHARANI2D/AEGIS-AI)
 
-- AI-driven triage
-- YARA + Volatility + sandboxing
+**Enterprise LLM Security Gateway**
 
-**Stack:** Python • Sandboxing tools
+- Prompt-injection defense
+- LLM security controls
+- Input / output protection
+- Governance-oriented security workflows
+- Automated security evidence
+
+**Stack:** Python • TypeScript • FastAPI • Next.js • PostgreSQL • SQLAlchemy • Docker • Azure
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 📧 DESAS
-Email Sandbox Analysis
+### ⚡ [Cybersecurity Incident Response Platform](https://github.com/DHARANI2D/Cybersecurity_Incident_Response_Platform)
 
-- Dynamic phishing investigation
-- Attachment/link detonation
+**Incident Response & Security Automation**
 
-**Stack:** Python
+- Security-event processing
+- ML-assisted analysis
+- Incident-response workflows
+- Containerized deployment
+
+**Stack:** Python • scikit-learn • MySQL • Docker
 
 </td>
+
 <td width="50%">
 
-### 🎣 Sentinel AI
-Threat Detection System
+### 🧠 [digitaltwin](https://github.com/DHARANI2D/digitaltwin)
 
-- Phishing / scam / malicious URL detection
-- Rule-based + LLM reasoning
+**Security / AI Experimentation**
 
-**Stack:** Node.js • TypeScript • React
+- Python-based security engineering
+- Graph-based data exploration
+- Security telemetry integrations
+- Threat-analysis workflows
+
+**Stack:** Python • FastAPI • LangChain • LangGraph • PostgreSQL • SQLite • Neo4j • Docker • MITRE ATT&CK • VirusTotal
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🤝 DANUS
-Personal AI Companion
+### 🦉 [owl-os](https://github.com/DHARANI2D/owl-os)
 
-- Persistent memory
-- Drift detection, decision provenance
+**Operating System Research**
 
-**Stack:** LangGraph • Redis • Qdrant
+- Systems programming
+- OS architecture experimentation
+- Security-oriented systems work
+
+**Stack:** Rust • Shell • Python • Cargo
 
 </td>
+
 <td width="50%">
 
-### ⛓️ EtherGuard
-Blockchain Security
+### 🧪 [ransomware_detection](https://github.com/DHARANI2D/ransomware_detection)
 
-- Smart contract vulnerability detection
-- Final-year project
+**Machine Learning for Ransomware Detection**
 
-**Stack:** Solidity
+- ML-based ransomware analysis
+- PyTorch experimentation
+- YARA rules
+- Volatility-based investigation
+- scikit-learn workflows
+
+**Stack:** Python • PyTorch • scikit-learn • YARA • Volatility
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ [terraform-aws](https://github.com/DHARANI2D/terraform-aws)
+
+**AWS Infrastructure as Code**
+
+- Infrastructure automation
+- Reproducible cloud configuration
+- Terraform-based AWS provisioning
+
+**Stack:** Terraform • HCL • AWS
+
+</td>
+
+<td width="50%">
+
+### 🎭 [Deep_Fake_Detection](https://github.com/DHARANI2D/Deep_Fake_Detection)
+
+**Deepfake Detection**
+
+- Machine-learning based detection
+- Computer-vision processing
+- Web-based inference workflow
+- Containerized deployment
+
+**Stack:** Python • JavaScript • TensorFlow • OpenCV • MongoDB • SQLite • Docker
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔍 [ComprehensiveAnomalyDetection](https://github.com/DHARANI2D/ComprehensiveAnomalyDetection)
+
+**Anomaly Detection**
+
+- Python-based anomaly-analysis experiments
+- Detection-oriented data processing
+
+**Stack:** Python • requirements-based ML environment
+
+</td>
+
+<td width="50%">
+
+### 🔐 [quantum-crypt-encryption](https://github.com/DHARANI2D/quantum-crypt-encryption)
+
+**Cryptography & Security Experimentation**
+
+- Cryptographic experimentation
+- Python / native-code components
+- Security-focused computational work
+
+**Stack:** Python • C • C++ • Cython • Fortran • JavaScript • Shell
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🗂️ More projects</b></summary>
+
+<br>
+
+**Applications & Engineering**
+
+[Anchor](https://github.com/DHARANI2D/Anchor) ·
+[Briefing](https://github.com/DHARANI2D/Briefing) ·
+[inventory_management](https://github.com/DHARANI2D/inventory_management) ·
+[Stock_Management_System](https://github.com/DHARANI2D/Stock_Management_System) ·
+[credit-card-fraud-detection-app](https://github.com/DHARANI2D/credit-card-fraud-detection-app) ·
+[facial_recognition_project](https://github.com/DHARANI2D/facial_recognition_project) ·
+[misinformation-visualization](https://github.com/DHARANI2D/misinformation-visualization)
+
+**Web / Portfolio / Personal**
+
+[portfolio_studio](https://github.com/DHARANI2D/portfolio_studio) ·
+[PORTFOLIO](https://github.com/DHARANI2D/PORTFOLIO) ·
+[blog_hashnode](https://github.com/DHARANI2D/blog_hashnode) ·
+[Birthday_Bot](https://github.com/DHARANI2D/Birthday_Bot)
+
+**Academic / Utility**
+
+[JAN_CGPA](https://github.com/DHARANI2D/JAN_CGPA) ·
+[cgpa_dec](https://github.com/DHARANI2D/cgpa_dec)
+
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B4B9E,100:C9BBFF&height=4"/>
 
@@ -233,20 +326,6 @@ Blockchain Security
 <img src="https://img.shields.io/badge/Proofpoint-AI%20Data%20Security-6C5CC4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Proofpoint-AI%20Email%20Security-6C5CC4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cisco-Networking-7C6FE0?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B4B9E,100:C9BBFF&height=4"/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="470" src="https://github-stats-extended.vercel.app/api?username=dharani2d&show_icons=true&theme=midnight-purple&count_private=true"/>
-<img width="470" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dharani2d&layout=compact&theme=midnight-purple"/>
-</p>
-
-<p align="center">
-<img width="470" src="https://streak-stats.demolab.com?user=dharani2d&background=0D1117&ring=7C6FE0&fire=7C6FE0&currStreakNum=E0D9FF&sideNums=E0D9FF&currStreakLabel=C9BBFF&sideLabels=C9BBFF&dates=8B8B8B&stroke=0D1117&border=5B4B9E"/>
-<img width="470" src="https://github-readme-activity-graph.vercel.app/graph?username=dharani2d&bg_color=0D1117&color=C9BBFF&line=7C6FE0&point=E0D9FF&area=true&area_color=5B4B9E&hide_border=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B4B9E,100:C9BBFF&height=4"/>
