@@ -337,7 +337,6 @@ Sri Krishna College of Engineering and Technology · 2021 – 2025 · CGPA 8.5/1
 <img src="https://img.shields.io/badge/2024-Cybersecurity-5B4B9E?style=for-the-badge"/> ➜
 <img src="https://img.shields.io/badge/2025-SOC%20Engineer-6C5CC4?style=for-the-badge"/> ➜
 <img src="https://img.shields.io/badge/2026-AI%20Security-7C6FE0?style=for-the-badge"/> ➜
-<img src="https://img.shields.io/badge/2027-MSc-A99CEA?style=for-the-badge"/> ➜
 <img src="https://img.shields.io/badge/Future-Research-C9BBFF?style=for-the-badge"/>
 </p>
 
