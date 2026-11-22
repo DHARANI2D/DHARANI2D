@@ -17,7 +17,7 @@
 
 ## About Me
 
-Cybersecurity Engineer at **Hewlett Packard Enterprise**, working within a global Cyber Defense Center. I build autonomous, evidence-backed security systems — from SOC detection engines to AI agent runtime security — and I'm applying to MSc programs in Advanced Computer Science / Cybersecurity for Fall 2027.
+Cybersecurity Engineer at **Hewlett Packard Enterprise**, working within a global Cyber Defense Center. I build autonomous, evidence-backed security systems — from SOC detection engines to AI agent runtime Security.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B4B9E,100:C9BBFF&height=4"/>
 
